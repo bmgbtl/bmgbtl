@@ -1,4 +1,11 @@
-## Hi there 👋
+
+```sh
+if job is None:
+  print("can't take care of a person who sacrifices her health to nurture me.")
+
+if project-roast is True AND companion is True:
+  richness = True
+```
 
 <!--
 **bmgbtl/bmgbtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
